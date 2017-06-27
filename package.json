@@ -1,0 +1,11 @@
+{
+  "name": "preact-custom-elements",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:acoll/preact-custom-elements.git",
+  "author": "Adam <(none)>",
+  "license": "MIT",
+  "peerDependencies": {
+    "preact": "^8.1.0"
+  }
+}
